@@ -1,0 +1,9 @@
+node_modules/
+build/
+dist/
+lib/
+out/
+tmp/
+package.json
+package-lock.json
+*.module.css.d.ts

@@ -1,0 +1,11 @@
+node_modules/
+build/
+dist/
+lib/
+out/
+tmp/
+.vscode/
+.idea/
+*.tsbuildinfo
+*.log
+*~

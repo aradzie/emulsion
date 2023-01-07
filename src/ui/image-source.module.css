@@ -1,0 +1,17 @@
+.imageSource {
+  display: flex;
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1rem;
+  color: #ffffff;
+  background-color: #333333;
+  box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+}
+
+.item {
+  width: 100px;
+  cursor: pointer;
+}
